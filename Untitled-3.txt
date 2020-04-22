@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+  <meta charset="UTF-8">
+  <title>Targeted CSS</title>
+h1{
+    color:blue;
+    }
+
+h2{
+    color:purple;
+}
+
+h3{
+    color:RED
+}
+</head>
+<body>
+
+<h1>MAKE ME BLUE</h1>
+
+<h2>MAKE ME PURPLE</h2>
+<h2>MAKE ME PURPLE</h2>
+
+<h3>MAKE ME RED</h3>
+
+</body>
+</html>
